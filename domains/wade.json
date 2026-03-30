@@ -3,13 +3,14 @@
     "username": "wwades",
     "email": "couplesuicide@proton.me"
   },
-  "record": {
+  "records": {
     "MX": [
       "mx1.forwardemail.net",
       "mx2.forwardemail.net"
     ],
     "TXT": [
       "forward-email=couplesuicide@proton.me"
-    ]
+    ],
+    "CNAME": "wwades.github.io"
   }
 }
